@@ -2,26 +2,29 @@
 This was based on [a Reddit thread](https://goo.gl/wRgEwh)
 
 ## Games that are guaranteed to work on local multiplayer for Citra
-**Fire Emblem Awakening** - Works
+Fire Emblem Awakening
 
-**Dragon Ball Z Extreme Butoden** - Works
+Dragon Ball Z Extreme Butoden
 
-**Sonic Lost World** - Works
+Sonic Lost World
 
-**Pokémon Omega Ruby & Alpha Sapphire** - Works
+Pokémon Omega Ruby & Alpha Sapphire
 
-**Pokémon Sun & Moon** - Works
+Pokémon Sun & Moon
 
-**Pokémon Ultra Sun & Moon** - Works
+Pokémon Ultra Sun & Moon
 
-**Gotta Protectors** - Works
+Gotta Protectors
 
-**Inazuma Eleven** - Works
+Inazuma Eleven
+
+Super Smash Bros.
 
 ## Games that don't have functioning netplay on Citra
-**Final Fantasy Explorers** - Doesn't work
+Final Fantasy Explorers
 
-**Dead or Alive Dimensions 3D** - Doesn't work
+Dead or Alive Dimensions 3D
 
-**Pokémon Red and Blue,
-Green, Yellow, Gold, Silver & Crystal** - Doesn't work
+Pokémon Red and Blue, Green, Yellow, Gold, Silver & Crystal
+
+Mario Kart 7
